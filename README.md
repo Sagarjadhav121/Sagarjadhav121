@@ -6,7 +6,7 @@
 🥇 <i><b>Skills<b></i>: <br><br>
  &ensp;&ensp;&ensp;- 👩‍🎨HTML5/CSS3/SCSS<br>
  &ensp;&ensp;&ensp;- 🤹‍♂️JavaScript/JQuery/TypeScript<br>
- &ensp;&ensp;&ensp;- 🦸‍♀️MEARN STACK (MongoDB, ExpressJs, Angular, ReactJS, NodeJs)<br><br>
+ &ensp;&ensp;&ensp;- 🦸‍♀️MERN STACK (MongoDB, ExpressJs, ReactJS, NodeJs)<br><br>
             <hr>
 <!--💞️ I’m looking to collaborate on project -->
 🏡 <i><b>How to reach me...?  ⛩........</b><i>🏇<br><br>
