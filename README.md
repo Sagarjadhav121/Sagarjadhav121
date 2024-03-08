@@ -79,8 +79,8 @@ I'm a passionate software developer and code animator. My journey in the world o
  <hr>
 <!--💞️ I’m looking to collaborate on project -->
 <h2>🏡 How to reach me...?  ⛩........🏇 <img src="https://media.tenor.com/f-HhuPl-spMAAAAi/flying-cute.gif" height="40px" width="40px" /> </h2>
- <br><br>
- 
+ <img src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" height="250px" width="250px" /> 
+
 
 ## Let's Connect <img src="https://media.tenor.com/PYdKVgVJzJEAAAAi/geocities-cute.gif"/> &ensp;&ensp;&ensp;-
 
