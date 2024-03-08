@@ -9,8 +9,9 @@ I'm a passionate software developer and code animator. My journey in the world o
 </div>
 
 
+<!--<img src="https://media.tenor.com/neRZrojlfIcAAAAi/divider-aesthetic.gif" height="2px" width="100%"/> -->
+<!--<img src="https://tenor.com/view/line-gif-22761797" height="2px" width="100%"/> -->
 
-<hr/>
 <!-- <div display="flex">
 <p align="right">
 <h2> 👩‍💻 &nbsp;Who I am...?</h2>
@@ -23,15 +24,15 @@ I'm a passionate software developer and code animator. My journey in the world o
 
 </p>
  </div> -->
- </B>
+
 <!-- 🥇 <i><b>Skills<b></i>: <br><br>
  &ensp;&ensp;&ensp;- 👩‍🎨HTML5/CSS3/SCSS<br>
  &ensp;&ensp;&ensp;- 🤹‍♂️JavaScript/JQuery/TypeScript<br>
  &ensp;&ensp;&ensp;- 🦸‍♀️MERN STACK (MongoDB, ExpressJs, ReactJS, NodeJs)<br><br> -->
-           
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" height="2px" width="100%"/>
+ <img src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif" height="2px" width="100%"/>        
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-  
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>
@@ -69,16 +70,23 @@ I'm a passionate software developer and code animator. My journey in the world o
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg" alt="BROWESERSTACK" width="55" height="55"  />   
 </p>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;"></a>
-<hr>
-  
+
 <!--- Gut hub hisotry card ---->
 <!-- GitHub Stats -->
+ <img src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif" height="2px" width="100%"/>        
+
 ## 📊 GitHub Stats
+
+
+
 <span >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjadhav121&show_icons=true&theme=merko)</span>
 <span margin="50px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjadhav121&layout=compact&theme=merko)](https://github.com/sagarjadhav121/github-readme-stats)</span>
- <hr>
+ 
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" height="2px" width="100%"/>
+
+
 <!--💞️ I’m looking to collaborate on project -->
-<h2>🏡 How to reach me...?  ⛩........🏇 <img src="https://media.tenor.com/f-HhuPl-spMAAAAi/flying-cute.gif" height="40px" width="40px" /> </h2>
+<h2>🏡 How to reach out to me...?  ⛩........🏇 <img src="https://media.tenor.com/f-HhuPl-spMAAAAi/flying-cute.gif" height="40px" width="40px" /> </h2>
  <img src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" height="250px" width="250px" /> 
 
 
@@ -94,13 +102,13 @@ Feel free to reach out to me through any of these channels:
 
 Let's collaborate and innovate together! 😊
 
- ![Snake animation](https://github.com/jadhavsagar121/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<br><br>
-
+ ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!---
 Sagarjadhav121/Sagarjadhav121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ <img src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif" height="5px" width="100%"/>   
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" height="5px" width="100%"/>
 <!-- Footer -->
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30%">
@@ -109,4 +117,5 @@ You can click the Preview link to take a look at your changes.
     <i>Lovingly crafted with ☕ and ❤️</i>
   </samp>
 </p>
-
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" height="5px" width="100%"/>
+ <img src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif" height="5px" width="100%"/>   
