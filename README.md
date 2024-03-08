@@ -102,7 +102,7 @@ I'm a passionate software developer and code animator. My journey in the world o
 
 
 
-<span >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjadhav121&show_icons=true&theme=merko)</span>
+<span >![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjadhav121&show_icons=true&theme=merko)</span>
 <span margin="50px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjadhav121&layout=compact&theme=merko)](https://github.com/sagarjadhav121/github-readme-stats)</span>
  
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" height="2px" width="100%"/>
