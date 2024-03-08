@@ -1,10 +1,17 @@
-![Snake animation](https://github.com/sagarjadhav121/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!-- Title -->
+# Hi there, I'm Sagar Jadhav! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=jadhavsagar121&color=blueviolet)
+
+<!-- About Me -->
+I'm a passionate software developer and code animator. My journey in the world of programming began with a fascination for creating interactive experiences. From crafting elegant code to designing captivating visuals, I strive to blend creativity with functionality in everything I do.
 <div id="header" align="center">
   <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlndWZ5eGd5M2R6ZXpsNHlma3Btc2U5Zmk2Y3VobmNmaGJocjc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
 
+
+
 <hr/>
-<div display="flex">
+<!-- <div display="flex">
 <p align="right">
 <h2> 👩‍💻 &nbsp;Who I am...?</h2>
 <img height="150" width="150"  src="https://c.tenor.com/wA8Gx_UqnY4AAAAC/tenor.gif"/>
@@ -15,14 +22,13 @@
 &ensp;&ensp;&ensp;- 💻 I’m Full Stack Web Dveloper. <br/><hr/>
 
 </p>
-
- </div>
+ </div> -->
  </B>
-🥇 <i><b>Skills<b></i>: <br><br>
+<!-- 🥇 <i><b>Skills<b></i>: <br><br>
  &ensp;&ensp;&ensp;- 👩‍🎨HTML5/CSS3/SCSS<br>
  &ensp;&ensp;&ensp;- 🤹‍♂️JavaScript/JQuery/TypeScript<br>
- &ensp;&ensp;&ensp;- 🦸‍♀️MERN STACK (MongoDB, ExpressJs, ReactJS, NodeJs)<br><br>
-            <hr>
+ &ensp;&ensp;&ensp;- 🦸‍♀️MERN STACK (MongoDB, ExpressJs, ReactJS, NodeJs)<br><br> -->
+           
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
   
@@ -65,14 +71,42 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;"></a>
 <hr>
   
-
+<!--- Gut hub hisotry card ---->
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<span >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjadhav121&show_icons=true&theme=merko)</span>
+<span margin="50px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjadhav121&layout=compact&theme=merko)](https://github.com/sagarjadhav121/github-readme-stats)</span>
+ <hr>
 <!--💞️ I’m looking to collaborate on project -->
 <h2>🏡 How to reach me...?  ⛩........🏇 <img src="https://media.tenor.com/f-HhuPl-spMAAAAi/flying-cute.gif" height="40px" width="40px" /> </h2>
  <br><br>
- <img src="https://media.tenor.com/PYdKVgVJzJEAAAAi/geocities-cute.gif"/> &ensp;&ensp;&ensp;- 📫 Mail me on <i><ins> jadhavsagar121@gmail.com </ins></i>
+ 
+
+## Let's Connect <img src="https://media.tenor.com/PYdKVgVJzJEAAAAi/geocities-cute.gif"/> &ensp;&ensp;&ensp;-
+
+Feel free to reach out to me through any of these channels:
+
+- 📧 Email: [jadhavsagar121@gmail.com](mailto:jadhavsagar121@gmail.com)
+- 🌐 Website:[wwww.jadhavsagar.com](www.jadhavsagar.com)
+- 💼 LinkedIn: [Sagar Jadhav](https://www.linkedin.com/in/sagarjadhav121/)
+- 🐦 Twitter: [@jadhavsagar121](https://twitter.com/jadhavsagar121)
+- 💻 GitHub: [you are on my github](https://github.com/Sagarjadhav121)
+
+Let's collaborate and innovate together! 😊
+
+ ![Snake animation](https://github.com/jadhavsagar121/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 
 <!---
 Sagarjadhav121/Sagarjadhav121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- Footer -->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    <i>Lovingly crafted with ☕ and ❤️</i>
+  </samp>
+</p>
+
