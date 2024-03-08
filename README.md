@@ -106,7 +106,6 @@ Feel free to reach out to me through any of these channels:
 
 Let's collaborate and innovate together! 😊
 
- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!---
 Sagarjadhav121/Sagarjadhav121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
