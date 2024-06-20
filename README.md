@@ -132,7 +132,7 @@ I'm a passionate software developer and code animator. My journey in the world o
 Feel free to reach out to me through any of these channels:
 
 - 📧 Email: [jadhavsagar121@gmail.com](mailto:jadhavsagar121@gmail.com)
-- 🌐 Website:[wwww.jadhavsagar.com](www.jadhavsagar.com)
+- 🌐 Website:<a target="_blank" href="www.jadhavsagar.com">www.jadhavsagar.com</a>
 - 💼 LinkedIn: [Sagar Jadhav](https://www.linkedin.com/in/sagarjadhav121/)
 - 🐦 Twitter: [@jadhavsagar121](https://twitter.com/jadhavsagar121)
 - 💻 GitHub: [you are on my github](https://github.com/Sagarjadhav121)
