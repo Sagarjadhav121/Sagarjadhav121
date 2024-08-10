@@ -134,7 +134,7 @@ Feel free to reach out to me through any of these channels:
 - 📧 Email: [jadhavsagar121@gmail.com](mailto:jadhavsagar121@gmail.com)
 - 🌐 Website:[Sagar Jadhav](https://www.jadhavsagar.com)
 - 💼 LinkedIn: [Sagar Jadhav](https://www.linkedin.com/in/sagarjadhav121/)
-- 🐦 Twitter: [@jadhavsagar121](https://twitter.com/jadhavsagar121)
+- 🐦 X: [@jadhavsagar121](https://x.com/im_sagarj)
 - 💻 GitHub: [you are on my github](https://github.com/Sagarjadhav121)
 
 Let's collaborate and innovate together! 😊
